@@ -1,3 +1,6 @@
+
+Code 3: 
+
 ggplot(data = science_summary,
        mapping = aes(x = CNT, y = Science, size = Freq, fill = sex)) +
   geom_point(shape = 21) +
