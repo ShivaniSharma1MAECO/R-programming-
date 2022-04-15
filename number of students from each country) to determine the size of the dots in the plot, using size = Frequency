@@ -1,1 +1,8 @@
+ggplot(data = science_summary,
+       mapping = aes(x = CNT, y = Science, size = Freq, fill = sex)) +
+  geom_point(shape = 21) +
+  coord_flip() +
+  theme_bw() +
+  labs(x = NULL, y = "Science Scores", fill = "Gender",
+       size = “Frequency")
 
