@@ -19,3 +19,6 @@ Code 3 : Number of students from each country to determine the size of the dots 
 
 
 ![ch4-22-1](https://user-images.githubusercontent.com/100988969/163631277-74f263b8-f726-4531-a9cb-928c19ec65f9.png)
+
+
+
