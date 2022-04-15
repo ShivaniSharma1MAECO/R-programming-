@@ -1,4 +1,4 @@
-Code 2
+
 
 science_summary <- dat[, 
                        .(Science = mean(science, na.rm = TRUE), 
